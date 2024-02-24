@@ -11,3 +11,4 @@ int[] sophiaScores = new int[] { 90, 86, 87, 98, 100};
 int[] andrewScores = new int[] { 92, 89, 81, 96, 90};
 int[] emmaScores = new int[] { 90, 89, 81, 96, 68};
 int[] loganScores = new int[] { 90, 95, 87, 88, 96};
+//test commit
