@@ -12,3 +12,18 @@ C:\Users\danie\Documents\РАБОЧИЙ ФАЙЛ НЕ ДЕЛАЙ ДРУГИХ\__
 C:\Users\danie\Documents\РАБОЧИЙ ФАЙЛ НЕ ДЕЛАЙ ДРУГИХ\__Learning\C#\Project1\obj\Debug\net8.0\Project1.pdb
 C:\Users\danie\Documents\РАБОЧИЙ ФАЙЛ НЕ ДЕЛАЙ ДРУГИХ\__Learning\C#\Project1\obj\Debug\net8.0\Project1.genruntimeconfig.cache
 C:\Users\danie\Documents\РАБОЧИЙ ФАЙЛ НЕ ДЕЛАЙ ДРУГИХ\__Learning\C#\Project1\obj\Debug\net8.0\ref\Project1.dll
+C:\Users\danie\Documents\__Learning__\C#\C#Repository\C_sharpStudy\bin\Debug\net8.0\Project1.exe
+C:\Users\danie\Documents\__Learning__\C#\C#Repository\C_sharpStudy\bin\Debug\net8.0\Project1.deps.json
+C:\Users\danie\Documents\__Learning__\C#\C#Repository\C_sharpStudy\bin\Debug\net8.0\Project1.runtimeconfig.json
+C:\Users\danie\Documents\__Learning__\C#\C#Repository\C_sharpStudy\bin\Debug\net8.0\Project1.dll
+C:\Users\danie\Documents\__Learning__\C#\C#Repository\C_sharpStudy\bin\Debug\net8.0\Project1.pdb
+C:\Users\danie\Documents\__Learning__\C#\C#Repository\C_sharpStudy\obj\Debug\net8.0\Project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\__Learning__\C#\C#Repository\C_sharpStudy\obj\Debug\net8.0\Project1.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\__Learning__\C#\C#Repository\C_sharpStudy\obj\Debug\net8.0\Project1.AssemblyInfo.cs
+C:\Users\danie\Documents\__Learning__\C#\C#Repository\C_sharpStudy\obj\Debug\net8.0\Project1.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\__Learning__\C#\C#Repository\C_sharpStudy\obj\Debug\net8.0\Project1.sourcelink.json
+C:\Users\danie\Documents\__Learning__\C#\C#Repository\C_sharpStudy\obj\Debug\net8.0\Project1.dll
+C:\Users\danie\Documents\__Learning__\C#\C#Repository\C_sharpStudy\obj\Debug\net8.0\refint\Project1.dll
+C:\Users\danie\Documents\__Learning__\C#\C#Repository\C_sharpStudy\obj\Debug\net8.0\Project1.pdb
+C:\Users\danie\Documents\__Learning__\C#\C#Repository\C_sharpStudy\obj\Debug\net8.0\Project1.genruntimeconfig.cache
+C:\Users\danie\Documents\__Learning__\C#\C#Repository\C_sharpStudy\obj\Debug\net8.0\ref\Project1.dll

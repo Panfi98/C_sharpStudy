@@ -11,4 +11,13 @@ int[] sophiaScores = new int[] { 90, 86, 87, 98, 100};
 int[] andrewScores = new int[] { 92, 89, 81, 96, 90};
 int[] emmaScores = new int[] { 90, 89, 81, 96, 68};
 int[] loganScores = new int[] { 90, 95, 87, 88, 96};
-//test commit
+
+//Student names 
+string[] studentNames = new string[] {"Sophia", "Andrew", "Emma", "Logan"};
+
+int[] studentScores = new int[10];
+
+string currentStudentLetterGrade = "";
+
+// Write the Report Header to the console
+Console.WriteLine("Student\t\tGrade\n");
