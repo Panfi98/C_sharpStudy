@@ -7,5 +7,7 @@ Feature1> The app should include extra credits to calculate final gpa.
 
 int currentAssignments = 5;
 
-int[] sophiaScore = new int[] { 90, 86, 87, 98, 100};
-int[] andrewScore = new int[] { 92, 89, 81, 96, 90};
+int[] sophiaScores = new int[] { 90, 86, 87, 98, 100};
+int[] andrewScores = new int[] { 92, 89, 81, 96, 90};
+int[] emmaScores = new int[] { 90, 89, 81, 96, 68};
+int[] loganScores = new int[] { 90, 95, 87, 88, 96};
