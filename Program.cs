@@ -59,7 +59,7 @@ foreach (string name in studentNames)
     else if (currentStudent == "Logan")
         studentScores = loganScores;
 
-    int sumAssignmentScores = 0;
+    decimal sumAssignmentScores = 0;
 
     decimal currentStudentGrade = 0;
 
@@ -81,16 +81,20 @@ foreach (string name in studentNames)
 
         if (gradedAssignments <= examAssignments)
         {
-            sumAssignmentScores += score;
-            sumExamScore += score;
+            sumAssignmentScores += (decimal)score;
+            sumExamScore += (decimal)score;
         }
         else
-            sumAssignmentScores += score / 10;
+            sumAssignmentScores += (decimal)score / 10;
     }
 
-    currentStudentGrade = (decimal)(sumAssignmentScores) / examAssignments;
-    currentStudentExamGrade = (decimal)(sumExamScore) / examAssignments;
+    currentStudentGrade = (decimal)sumAssignmentScores / examAssignments;
+
+    currentStudentExamGrade = (decimal)sumExamScore / examAssignments;
+
     currentExtraCredit = currentStudentGrade - currentStudentExamGrade;
+
+
 
     if (currentStudentGrade >= 97)
         currentStudentLetterGrade = "A+";
@@ -131,10 +135,8 @@ foreach (string name in studentNames)
     else
         currentStudentLetterGrade = "F";
 
-    // Student         Grade
-    // Sophia:         92.2    A-
     
-    Console.WriteLine($"{currentStudent}\t\t{currentStudentExamGrade}\t\t{currentStudentGrade}\t{currentStudentLetterGrade}\t{currentExtraCredit}");
+    Console.WriteLine($"{currentStudent}\t\t{currentStudentExamGrade}\t\t{currentStudentGrade}\t{currentStudentLetterGrade}\t{((int)currentStudentExamGrade)} ({currentExtraCredit} pts)");
 }
 
 // required for running in VS Code (keeps the Output windows open to view results)
